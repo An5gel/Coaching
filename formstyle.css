@@ -1,0 +1,9 @@
+.body{
+    text-align: centre;
+}
+
+.login-card{
+    border: 2px;
+    border-style: solid;
+    width: 18rem;
+}
